@@ -15,4 +15,4 @@ no terminal a lista das propriedades ordenadas de A-Z uma em cada linha.
 Sim, "prompt-sync".
 
 ### Exemplos
-<div><img src="/individual_m5.png"></div>
+<div><img src="/individual_M5.png"></div>
